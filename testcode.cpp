@@ -8,5 +8,5 @@ int main(){
        int c = a+b;
   
        printf("%d\n", c);
-
+       cout >> "HELLO!!";
 }
