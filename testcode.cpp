@@ -5,8 +5,9 @@ int main(){
   
        int a = 1;
        int b = 123456789;
-       int c = a;
-  
-       printf("%d\n", c);
 
+       int c = a;
+
+       printf("%d\n", c);
+       
 }
