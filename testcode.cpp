@@ -8,6 +8,6 @@ int main(){
 
        int c = a;
 
-       printf("%d\n", a);
+       printf("%d\n", b);
        
 }
